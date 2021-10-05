@@ -19,6 +19,7 @@ if you want change branch you must use checkout
 first sign in github
 add new repository
 select a name for your repository
-
+VS file, open folder, select folder
+file, new
 
 
