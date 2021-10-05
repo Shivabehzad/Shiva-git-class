@@ -14,12 +14,12 @@ http is not safety but https is safe
 some response frome http are like: 401,403,405, 501(serever), 200,201 (successful) and etc.
 keywords are: get, post, patch, delete
 # git
-keywords are: fetch, pull, change, commit, push
-if you want change branch you must use checkout
-first sign in github
-add new repository
-select a name for your repository
-VS file, open folder, select folder
-file, new
+keywords are: fetch, pull, change, commit, push.
+if you want to change branch you must use checkout.
+first sign in github.
+then add new repository.
+select a name for your repository.
+then go to VS ,file, open folder, select folder
+after that file, new
 
 
