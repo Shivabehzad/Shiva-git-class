@@ -21,5 +21,8 @@ then add new repository.
 select a name for your repository.
 then go to VS ,file, open folder, select folder
 after that file, new
+behzadpou you are so smatr my friend
+you can do this successsfully
+
 
 
